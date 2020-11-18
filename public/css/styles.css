@@ -14,6 +14,10 @@ body {
 
 * {box-sizing:border-box}
 
+/* .right{
+  text-align: right;
+} */
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 100%;
